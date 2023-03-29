@@ -1,0 +1,85 @@
+.title-contact{
+    text-align: left;
+    margin: auto;
+    /* padding-left: 6%; */
+    padding-bottom: 3%;
+    color: white;
+    border-bottom:1px dotted white;
+}
+.touch{
+    color: #4169E1;
+}
+.container-contact{
+margin-top: 10%;
+}
+.content-input-contact{
+    margin: auto;
+    display: flex;
+    margin-top: 5%;
+}
+.information{
+    width: 50%;
+}
+
+.content-contact{
+    font-size: 18px;
+    width: 90%;
+    padding: 10px;
+    margin: 15px;
+    background-color: #222222;
+    color: white;
+    border-radius: 10px;
+    text-align: left;
+    
+    
+}
+.fa-brands{
+    color: blue;
+    margin-left: 15px;
+    margin-right: 15px;
+}
+.fa-solid{
+    color: blue;
+    margin-left: 15px;
+    margin-right: 15px;
+}
+.input-name{
+    width: 45%;
+    background-color: #222222;
+    padding: 10px;
+    border-radius: 10px;
+    border: none;
+    margin: 2%;
+    color: gray;
+}
+.input-name:focus {
+    outline: none;
+  }
+  .input-message{
+    width: 95%;
+    height: 100px;
+    border-radius: 10px;
+    border: none;
+    margin: 3%;
+    color: gray;
+    background-color: #222222;
+    padding: 10px;
+
+  }
+  .btn-message{
+    float: left;
+    margin-left: 2%;
+    width: 200px;
+    height: 50px;
+    margin-top: 5px;
+    border-radius: 30px;
+    color: white;
+    border: none;
+     background-color: #4169E1;
+  }
+  .input-message:focus {
+    outline: none;
+  }
+.form-input-content{
+    margin-top: 7px;
+}

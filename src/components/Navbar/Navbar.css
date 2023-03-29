@@ -1,0 +1,26 @@
+*{
+    padding: 0;
+    margin: 0;
+    box-sizing: border-box;
+}
+
+.toolbar{
+    display: flex;
+    list-style-type: square;
+    justify-content: space-around;
+}
+.title-navbar{
+    font-size: 15px;
+    margin: 5%;
+    color: white;
+}
+.container-navbar{
+    margin-top: 3%;
+}
+.home{
+    color: #4169E1;
+}
+a {
+    text-decoration: none; /* loại bỏ gạch chân */
+    color: white; /* thay đổi màu chữ thành đỏ */
+  }
